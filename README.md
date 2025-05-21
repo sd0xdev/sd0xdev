@@ -48,12 +48,66 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sd0xdev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👋 Hi, I’m @sd0xdev
-- 👀 I’m interested in
-  - I like to solve problems. I have been gradually promoted from an App engineer to the position of CTO. I have rich experience in requirements interview, process management, engineering progress management, system architecture design, software function development (front-end, back-end and mobile terminal), cloud architecture and various cloud products, and overall processes. The development team that once managed 15+ began to design culture, development process, and automated infrastructure (DevOps) from 0.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... `software.develop.0x@gmail.com`
+# 👋 Hey, I’m — `@sd0xdev`
+
+Full‑stack **architect & polyglot engineer** with **7 + years** building and scaling cloud‑native SaaS across **GCP, AWS & Nutanix**. I combine multi‑stakeholder communication, cost mindfulness, and a quality‑first mindset to deliver products that embody **Excellence & Integrity**.
+
+> **Current** — Senior Backend Engineer @ ? · spearheading AI product strategy & LLM initiatives while owning day‑to‑day REST API development and cross‑functional alignment with Product, Data & UX.
+
+---
+
+## 🔭 What I’m working on
+
+* **LLM‑powered features** to augment learning experiences
+* **Vibe Coding** — an AI‑assisted development framework (in progress)
+* **AuriSubscribe** — AI auto‑subtitle proof‑of‑concept that gained community buzz
+
+## 🛠️ Tech Toolbox
+
+`Node.js` · `TypeScript` · `Python` · `Rust` (deepening) · `Go` (deepening) · PostgreSQL · Redis · Kafka · Kubernetes · Terraform · Cloud Run / ECS · Cloudflare Workers · CI/CD (GitHub Actions & Cloud Build)
+
+## 🌱 Currently Learning
+
+* Advanced **Go** patterns for micro‑services
+* **Distributed systems** design & observability
+* **LLM fine‑tuning** and RAG at scale
+
+## 🤝 Looking to Collaborate On
+
+* Open‑source **LLM / AI tooling**
+* Cloud‑native **DevOps automation**
+* **Cost‑efficient** multi‑cloud architectures
+
+## 🏆 Highlights & Achievements
+
+* ☁️ Secured **Google Cloud Partner** status as founding CTO; led a 15‑engineer team and shipped MVP in **4 months** with 6× deploy frequency
+* 📜 Certifications: **EXIN Blockchain** & **AWS Cloud Practitioner**
+* 🎤 Occasional speaker at **DevOps Taiwan**; former industry mentor at MCU
+
+## 🌐 Languages
+
+* 🇹🇼 Native Mandarin (中文 — 臺灣正體)
+* 🇺🇸 English — proficient reading & writing; improving speaking & listening
+
+## 📫 Reach Me
+
+* Twitter / X → **[@sd0xdev](https://twitter.com/sd0xdev)**
+* Email → **[software.develop.0x@gmail.com](mailto:software.develop.0x@gmail.com)**
+
+<!-- GitHub Stats (optional)
+![sd0xdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sd0xdev&show_icons=true&count_private=true&hide=issues&theme=default)
+-->
+
+<details>
+  <summary>📜 &nbsp;More About Me</summary>
+
+* Thrive in **async distributed teams**
+* Advocate **DevOps culture** — lifted deploy frequency **6×** at previous startup
+* Passionate about **blockchain** & **web3** infra, especially **Solana**
+* Love mentoring & sharing knowledge — catch me at local meetups!
+
+</details>
+
 
 <!---
 sd0xdev/sd0xdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
